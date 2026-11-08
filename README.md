@@ -19,13 +19,17 @@ pip install -r requirements.txt
 ```
 
 ```python
-from models import load_model, predict
+import torch
+from models import load_model
 
 model, tokenizer, labels = load_model("field", "weights/field.pth")
-scores = predict(model, tokenizer, ["Research title"], ["Research abstract."])
+inputs = tokenizer("Research title; Research abstract.",
+                   max_length=512, truncation=True, return_tensors="pt")
+with torch.inference_mode():
+    scores = model(**inputs).softmax(dim=-1)
 print(labels[scores[0].argmax().item()])
 ```
 
-Use `subfield_single` or `subfield_multilabel` for the other checkpoints. The two subfield models have different label orders; use the matching file in `labels/`. Multilabel scores are not normalized to sum to one; the validation-selected threshold is 0.25.
+Use `subfield_single` or `subfield_multilabel` for the other checkpoints. For the multilabel model, tokenize the title and abstract as a text pair and apply `sigmoid()` to the logits. Its scores are not normalized to sum to one; the validation-selected threshold is 0.25. The two subfield models have different label orders; use the matching file in `labels/`.
 
-The loader preserves the residual classification heads and input formats. No pretrained-weight download is needed. Checksums are in `SHA256SUMS`; available training and evaluation outputs are in `logs/`.
+The loader preserves the residual classification heads. No pretrained-weight download is needed. Checksums are in `SHA256SUMS`; available training and evaluation outputs are in `logs/`.

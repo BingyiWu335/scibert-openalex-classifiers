@@ -56,23 +56,3 @@ def load_model(kind, checkpoint, device="cpu"):
     tokenizer = AutoTokenizer.from_pretrained(ROOT / "tokenizer", local_files_only=True)
     labels = json.loads((ROOT / "labels" / f"{kind}.json").read_text(encoding="utf-8"))
     return model, tokenizer, labels
-
-
-@torch.inference_mode()
-def predict(model, tokenizer, titles, abstracts):
-    """Return one score vector per title–abstract pair."""
-    if len(titles) != len(abstracts):
-        raise ValueError("titles and abstracts must have the same length")
-    if not titles:
-        return torch.empty((0, KINDS[model.kind]))
-    options = dict(padding=True, truncation=True, max_length=512, return_tensors="pt")
-    if model.kind == "subfield_multilabel":
-        inputs = tokenizer(titles, abstracts, **options)
-    else:
-        texts = [" ".join(f"{title}; {abstract}".split()) for title, abstract in zip(titles, abstracts)]
-        inputs = tokenizer(texts, **options)
-    device = next(model.parameters()).device
-    inputs = {key: value.to(device) for key, value in inputs.items()}
-    logits = model(**inputs)
-    scores = logits.sigmoid() if model.kind == "subfield_multilabel" else logits.softmax(dim=-1)
-    return scores.cpu()
