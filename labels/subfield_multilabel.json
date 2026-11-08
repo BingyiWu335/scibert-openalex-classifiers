@@ -1,0 +1,1262 @@
+[
+  {
+    "index": 0,
+    "id": 1100,
+    "name": "General Agricultural and Biological Sciences"
+  },
+  {
+    "index": 1,
+    "id": 1102,
+    "name": "Agronomy and Crop Science"
+  },
+  {
+    "index": 2,
+    "id": 1103,
+    "name": "Animal Science and Zoology"
+  },
+  {
+    "index": 3,
+    "id": 1104,
+    "name": "Aquatic Science"
+  },
+  {
+    "index": 4,
+    "id": 1105,
+    "name": "Ecology, Evolution, Behavior and Systematics"
+  },
+  {
+    "index": 5,
+    "id": 1106,
+    "name": "Food Science"
+  },
+  {
+    "index": 6,
+    "id": 1107,
+    "name": "Forestry"
+  },
+  {
+    "index": 7,
+    "id": 1108,
+    "name": "Horticulture"
+  },
+  {
+    "index": 8,
+    "id": 1109,
+    "name": "Insect Science"
+  },
+  {
+    "index": 9,
+    "id": 1110,
+    "name": "Plant Science"
+  },
+  {
+    "index": 10,
+    "id": 1111,
+    "name": "Soil Science"
+  },
+  {
+    "index": 11,
+    "id": 1200,
+    "name": "General Arts and Humanities"
+  },
+  {
+    "index": 12,
+    "id": 1202,
+    "name": "History"
+  },
+  {
+    "index": 13,
+    "id": 1203,
+    "name": "Language and Linguistics"
+  },
+  {
+    "index": 14,
+    "id": 1204,
+    "name": "Archeology"
+  },
+  {
+    "index": 15,
+    "id": 1205,
+    "name": "Classics"
+  },
+  {
+    "index": 16,
+    "id": 1206,
+    "name": "Conservation"
+  },
+  {
+    "index": 17,
+    "id": 1207,
+    "name": "History and Philosophy of Science"
+  },
+  {
+    "index": 18,
+    "id": 1208,
+    "name": "Literature and Literary Theory"
+  },
+  {
+    "index": 19,
+    "id": 1209,
+    "name": "Museology"
+  },
+  {
+    "index": 20,
+    "id": 1210,
+    "name": "Music"
+  },
+  {
+    "index": 21,
+    "id": 1211,
+    "name": "Philosophy"
+  },
+  {
+    "index": 22,
+    "id": 1212,
+    "name": "Religious studies"
+  },
+  {
+    "index": 23,
+    "id": 1213,
+    "name": "Visual Arts and Performing Arts"
+  },
+  {
+    "index": 24,
+    "id": 1302,
+    "name": "Aging"
+  },
+  {
+    "index": 25,
+    "id": 1303,
+    "name": "Biochemistry"
+  },
+  {
+    "index": 26,
+    "id": 1304,
+    "name": "Biophysics"
+  },
+  {
+    "index": 27,
+    "id": 1305,
+    "name": "Biotechnology"
+  },
+  {
+    "index": 28,
+    "id": 1306,
+    "name": "Cancer Research"
+  },
+  {
+    "index": 29,
+    "id": 1307,
+    "name": "Cell Biology"
+  },
+  {
+    "index": 30,
+    "id": 1308,
+    "name": "Clinical Biochemistry"
+  },
+  {
+    "index": 31,
+    "id": 1309,
+    "name": "Developmental Biology"
+  },
+  {
+    "index": 32,
+    "id": 1310,
+    "name": "Endocrinology"
+  },
+  {
+    "index": 33,
+    "id": 1311,
+    "name": "Genetics"
+  },
+  {
+    "index": 34,
+    "id": 1312,
+    "name": "Molecular Biology"
+  },
+  {
+    "index": 35,
+    "id": 1313,
+    "name": "Molecular Medicine"
+  },
+  {
+    "index": 36,
+    "id": 1314,
+    "name": "Physiology"
+  },
+  {
+    "index": 37,
+    "id": 1315,
+    "name": "Structural Biology"
+  },
+  {
+    "index": 38,
+    "id": 1402,
+    "name": "Accounting"
+  },
+  {
+    "index": 39,
+    "id": 1403,
+    "name": "Business and International Management"
+  },
+  {
+    "index": 40,
+    "id": 1404,
+    "name": "Management Information Systems"
+  },
+  {
+    "index": 41,
+    "id": 1405,
+    "name": "Management of Technology and Innovation"
+  },
+  {
+    "index": 42,
+    "id": 1406,
+    "name": "Marketing"
+  },
+  {
+    "index": 43,
+    "id": 1407,
+    "name": "Organizational Behavior and Human Resource Management"
+  },
+  {
+    "index": 44,
+    "id": 1408,
+    "name": "Strategy and Management"
+  },
+  {
+    "index": 45,
+    "id": 1409,
+    "name": "Tourism, Leisure and Hospitality Management"
+  },
+  {
+    "index": 46,
+    "id": 1410,
+    "name": "Industrial relations"
+  },
+  {
+    "index": 47,
+    "id": 1502,
+    "name": "Bioengineering"
+  },
+  {
+    "index": 48,
+    "id": 1503,
+    "name": "Catalysis"
+  },
+  {
+    "index": 49,
+    "id": 1504,
+    "name": "Chemical Health and Safety"
+  },
+  {
+    "index": 50,
+    "id": 1506,
+    "name": "Filtration and Separation"
+  },
+  {
+    "index": 51,
+    "id": 1507,
+    "name": "Fluid Flow and Transfer Processes"
+  },
+  {
+    "index": 52,
+    "id": 1508,
+    "name": "Process Chemistry and Technology"
+  },
+  {
+    "index": 53,
+    "id": 1602,
+    "name": "Analytical Chemistry"
+  },
+  {
+    "index": 54,
+    "id": 1603,
+    "name": "Electrochemistry"
+  },
+  {
+    "index": 55,
+    "id": 1604,
+    "name": "Inorganic Chemistry"
+  },
+  {
+    "index": 56,
+    "id": 1605,
+    "name": "Organic Chemistry"
+  },
+  {
+    "index": 57,
+    "id": 1606,
+    "name": "Physical and Theoretical Chemistry"
+  },
+  {
+    "index": 58,
+    "id": 1607,
+    "name": "Spectroscopy"
+  },
+  {
+    "index": 59,
+    "id": 1702,
+    "name": "Artificial Intelligence"
+  },
+  {
+    "index": 60,
+    "id": 1703,
+    "name": "Computational Theory and Mathematics"
+  },
+  {
+    "index": 61,
+    "id": 1704,
+    "name": "Computer Graphics and Computer-Aided Design"
+  },
+  {
+    "index": 62,
+    "id": 1705,
+    "name": "Computer Networks and Communications"
+  },
+  {
+    "index": 63,
+    "id": 1706,
+    "name": "Computer Science Applications"
+  },
+  {
+    "index": 64,
+    "id": 1707,
+    "name": "Computer Vision and Pattern Recognition"
+  },
+  {
+    "index": 65,
+    "id": 1708,
+    "name": "Hardware and Architecture"
+  },
+  {
+    "index": 66,
+    "id": 1709,
+    "name": "Human-Computer Interaction"
+  },
+  {
+    "index": 67,
+    "id": 1710,
+    "name": "Information Systems"
+  },
+  {
+    "index": 68,
+    "id": 1711,
+    "name": "Signal Processing"
+  },
+  {
+    "index": 69,
+    "id": 1712,
+    "name": "Software"
+  },
+  {
+    "index": 70,
+    "id": 1800,
+    "name": "General Decision Sciences"
+  },
+  {
+    "index": 71,
+    "id": 1802,
+    "name": "Information Systems and Management"
+  },
+  {
+    "index": 72,
+    "id": 1803,
+    "name": "Management Science and Operations Research"
+  },
+  {
+    "index": 73,
+    "id": 1804,
+    "name": "Statistics, Probability and Uncertainty"
+  },
+  {
+    "index": 74,
+    "id": 1902,
+    "name": "Atmospheric Science"
+  },
+  {
+    "index": 75,
+    "id": 1904,
+    "name": "Earth-Surface Processes"
+  },
+  {
+    "index": 76,
+    "id": 1906,
+    "name": "Geochemistry and Petrology"
+  },
+  {
+    "index": 77,
+    "id": 1907,
+    "name": "Geology"
+  },
+  {
+    "index": 78,
+    "id": 1908,
+    "name": "Geophysics"
+  },
+  {
+    "index": 79,
+    "id": 1910,
+    "name": "Oceanography"
+  },
+  {
+    "index": 80,
+    "id": 1911,
+    "name": "Paleontology"
+  },
+  {
+    "index": 81,
+    "id": 1912,
+    "name": "Space and Planetary Science"
+  },
+  {
+    "index": 82,
+    "id": 2000,
+    "name": "General Economics, Econometrics and Finance"
+  },
+  {
+    "index": 83,
+    "id": 2002,
+    "name": "Economics and Econometrics"
+  },
+  {
+    "index": 84,
+    "id": 2003,
+    "name": "Finance"
+  },
+  {
+    "index": 85,
+    "id": 2100,
+    "name": "General Energy"
+  },
+  {
+    "index": 86,
+    "id": 2102,
+    "name": "Energy Engineering and Power Technology"
+  },
+  {
+    "index": 87,
+    "id": 2103,
+    "name": "Fuel Technology"
+  },
+  {
+    "index": 88,
+    "id": 2104,
+    "name": "Nuclear Energy and Engineering"
+  },
+  {
+    "index": 89,
+    "id": 2105,
+    "name": "Renewable Energy, Sustainability and the Environment"
+  },
+  {
+    "index": 90,
+    "id": 2200,
+    "name": "General Engineering"
+  },
+  {
+    "index": 91,
+    "id": 2202,
+    "name": "Aerospace Engineering"
+  },
+  {
+    "index": 92,
+    "id": 2203,
+    "name": "Automotive Engineering"
+  },
+  {
+    "index": 93,
+    "id": 2204,
+    "name": "Biomedical Engineering"
+  },
+  {
+    "index": 94,
+    "id": 2205,
+    "name": "Civil and Structural Engineering"
+  },
+  {
+    "index": 95,
+    "id": 2206,
+    "name": "Computational Mechanics"
+  },
+  {
+    "index": 96,
+    "id": 2207,
+    "name": "Control and Systems Engineering"
+  },
+  {
+    "index": 97,
+    "id": 2208,
+    "name": "Electrical and Electronic Engineering"
+  },
+  {
+    "index": 98,
+    "id": 2209,
+    "name": "Industrial and Manufacturing Engineering"
+  },
+  {
+    "index": 99,
+    "id": 2210,
+    "name": "Mechanical Engineering"
+  },
+  {
+    "index": 100,
+    "id": 2211,
+    "name": "Mechanics of Materials"
+  },
+  {
+    "index": 101,
+    "id": 2212,
+    "name": "Ocean Engineering"
+  },
+  {
+    "index": 102,
+    "id": 2213,
+    "name": "Safety, Risk, Reliability and Quality"
+  },
+  {
+    "index": 103,
+    "id": 2214,
+    "name": "Media Technology"
+  },
+  {
+    "index": 104,
+    "id": 2215,
+    "name": "Building and Construction"
+  },
+  {
+    "index": 105,
+    "id": 2216,
+    "name": "Architecture"
+  },
+  {
+    "index": 106,
+    "id": 2302,
+    "name": "Ecological Modeling"
+  },
+  {
+    "index": 107,
+    "id": 2303,
+    "name": "Ecology"
+  },
+  {
+    "index": 108,
+    "id": 2304,
+    "name": "Environmental Chemistry"
+  },
+  {
+    "index": 109,
+    "id": 2305,
+    "name": "Environmental Engineering"
+  },
+  {
+    "index": 110,
+    "id": 2306,
+    "name": "Global and Planetary Change"
+  },
+  {
+    "index": 111,
+    "id": 2307,
+    "name": "Health, Toxicology and Mutagenesis"
+  },
+  {
+    "index": 112,
+    "id": 2308,
+    "name": "Management, Monitoring, Policy and Law"
+  },
+  {
+    "index": 113,
+    "id": 2309,
+    "name": "Nature and Landscape Conservation"
+  },
+  {
+    "index": 114,
+    "id": 2310,
+    "name": "Pollution"
+  },
+  {
+    "index": 115,
+    "id": 2311,
+    "name": "Industrial and Manufacturing Engineering"
+  },
+  {
+    "index": 116,
+    "id": 2312,
+    "name": "Water Science and Technology"
+  },
+  {
+    "index": 117,
+    "id": 2402,
+    "name": "Applied Microbiology and Biotechnology"
+  },
+  {
+    "index": 118,
+    "id": 2403,
+    "name": "Immunology"
+  },
+  {
+    "index": 119,
+    "id": 2404,
+    "name": "Microbiology"
+  },
+  {
+    "index": 120,
+    "id": 2405,
+    "name": "Parasitology"
+  },
+  {
+    "index": 121,
+    "id": 2406,
+    "name": "Virology"
+  },
+  {
+    "index": 122,
+    "id": 2500,
+    "name": "General Materials Science"
+  },
+  {
+    "index": 123,
+    "id": 2502,
+    "name": "Biomaterials"
+  },
+  {
+    "index": 124,
+    "id": 2503,
+    "name": "Ceramics and Composites"
+  },
+  {
+    "index": 125,
+    "id": 2504,
+    "name": "Electronic, Optical and Magnetic Materials"
+  },
+  {
+    "index": 126,
+    "id": 2505,
+    "name": "Materials Chemistry"
+  },
+  {
+    "index": 127,
+    "id": 2506,
+    "name": "Metals and Alloys"
+  },
+  {
+    "index": 128,
+    "id": 2507,
+    "name": "Polymers and Plastics"
+  },
+  {
+    "index": 129,
+    "id": 2508,
+    "name": "Surfaces, Coatings and Films"
+  },
+  {
+    "index": 130,
+    "id": 2602,
+    "name": "Algebra and Number Theory"
+  },
+  {
+    "index": 131,
+    "id": 2604,
+    "name": "Applied Mathematics"
+  },
+  {
+    "index": 132,
+    "id": 2605,
+    "name": "Computational Mathematics"
+  },
+  {
+    "index": 133,
+    "id": 2607,
+    "name": "Discrete Mathematics and Combinatorics"
+  },
+  {
+    "index": 134,
+    "id": 2608,
+    "name": "Geometry and Topology"
+  },
+  {
+    "index": 135,
+    "id": 2610,
+    "name": "Mathematical Physics"
+  },
+  {
+    "index": 136,
+    "id": 2611,
+    "name": "Modeling and Simulation"
+  },
+  {
+    "index": 137,
+    "id": 2612,
+    "name": "Numerical Analysis"
+  },
+  {
+    "index": 138,
+    "id": 2613,
+    "name": "Statistics and Probability"
+  },
+  {
+    "index": 139,
+    "id": 2614,
+    "name": "Theoretical Computer Science"
+  },
+  {
+    "index": 140,
+    "id": 2702,
+    "name": "Anatomy"
+  },
+  {
+    "index": 141,
+    "id": 2703,
+    "name": "Anesthesiology and Pain Medicine"
+  },
+  {
+    "index": 142,
+    "id": 2704,
+    "name": "Biochemistry"
+  },
+  {
+    "index": 143,
+    "id": 2705,
+    "name": "Cardiology and Cardiovascular Medicine"
+  },
+  {
+    "index": 144,
+    "id": 2706,
+    "name": "Critical Care and Intensive Care Medicine"
+  },
+  {
+    "index": 145,
+    "id": 2707,
+    "name": "Complementary and alternative medicine"
+  },
+  {
+    "index": 146,
+    "id": 2708,
+    "name": "Dermatology"
+  },
+  {
+    "index": 147,
+    "id": 2711,
+    "name": "Emergency Medicine"
+  },
+  {
+    "index": 148,
+    "id": 2712,
+    "name": "Endocrinology, Diabetes and Metabolism"
+  },
+  {
+    "index": 149,
+    "id": 2713,
+    "name": "Epidemiology"
+  },
+  {
+    "index": 150,
+    "id": 2714,
+    "name": "Family Practice"
+  },
+  {
+    "index": 151,
+    "id": 2715,
+    "name": "Gastroenterology"
+  },
+  {
+    "index": 152,
+    "id": 2716,
+    "name": "Genetics"
+  },
+  {
+    "index": 153,
+    "id": 2717,
+    "name": "Geriatrics and Gerontology"
+  },
+  {
+    "index": 154,
+    "id": 2718,
+    "name": "Health Informatics"
+  },
+  {
+    "index": 155,
+    "id": 2720,
+    "name": "Hematology"
+  },
+  {
+    "index": 156,
+    "id": 2721,
+    "name": "Hepatology"
+  },
+  {
+    "index": 157,
+    "id": 2723,
+    "name": "Immunology and Allergy"
+  },
+  {
+    "index": 158,
+    "id": 2724,
+    "name": "Internal Medicine"
+  },
+  {
+    "index": 159,
+    "id": 2725,
+    "name": "Infectious Diseases"
+  },
+  {
+    "index": 160,
+    "id": 2726,
+    "name": "Microbiology"
+  },
+  {
+    "index": 161,
+    "id": 2727,
+    "name": "Nephrology"
+  },
+  {
+    "index": 162,
+    "id": 2728,
+    "name": "Neurology"
+  },
+  {
+    "index": 163,
+    "id": 2729,
+    "name": "Obstetrics and Gynecology"
+  },
+  {
+    "index": 164,
+    "id": 2730,
+    "name": "Oncology"
+  },
+  {
+    "index": 165,
+    "id": 2731,
+    "name": "Ophthalmology"
+  },
+  {
+    "index": 166,
+    "id": 2732,
+    "name": "Orthopedics and Sports Medicine"
+  },
+  {
+    "index": 167,
+    "id": 2733,
+    "name": "Otorhinolaryngology"
+  },
+  {
+    "index": 168,
+    "id": 2734,
+    "name": "Pathology and Forensic Medicine"
+  },
+  {
+    "index": 169,
+    "id": 2735,
+    "name": "Pediatrics, Perinatology and Child Health"
+  },
+  {
+    "index": 170,
+    "id": 2736,
+    "name": "Pharmacology"
+  },
+  {
+    "index": 171,
+    "id": 2737,
+    "name": "Physiology"
+  },
+  {
+    "index": 172,
+    "id": 2738,
+    "name": "Psychiatry and Mental health"
+  },
+  {
+    "index": 173,
+    "id": 2739,
+    "name": "Public Health, Environmental and Occupational Health"
+  },
+  {
+    "index": 174,
+    "id": 2740,
+    "name": "Pulmonary and Respiratory Medicine"
+  },
+  {
+    "index": 175,
+    "id": 2741,
+    "name": "Radiology, Nuclear Medicine and Imaging"
+  },
+  {
+    "index": 176,
+    "id": 2742,
+    "name": "Rehabilitation"
+  },
+  {
+    "index": 177,
+    "id": 2743,
+    "name": "Reproductive Medicine"
+  },
+  {
+    "index": 178,
+    "id": 2745,
+    "name": "Rheumatology"
+  },
+  {
+    "index": 179,
+    "id": 2746,
+    "name": "Surgery"
+  },
+  {
+    "index": 180,
+    "id": 2747,
+    "name": "Transplantation"
+  },
+  {
+    "index": 181,
+    "id": 2748,
+    "name": "Urology"
+  },
+  {
+    "index": 182,
+    "id": 2802,
+    "name": "Behavioral Neuroscience"
+  },
+  {
+    "index": 183,
+    "id": 2803,
+    "name": "Biological Psychiatry"
+  },
+  {
+    "index": 184,
+    "id": 2804,
+    "name": "Cellular and Molecular Neuroscience"
+  },
+  {
+    "index": 185,
+    "id": 2805,
+    "name": "Cognitive Neuroscience"
+  },
+  {
+    "index": 186,
+    "id": 2806,
+    "name": "Developmental Neuroscience"
+  },
+  {
+    "index": 187,
+    "id": 2807,
+    "name": "Endocrine and Autonomic Systems"
+  },
+  {
+    "index": 188,
+    "id": 2808,
+    "name": "Neurology"
+  },
+  {
+    "index": 189,
+    "id": 2809,
+    "name": "Sensory Systems"
+  },
+  {
+    "index": 190,
+    "id": 2910,
+    "name": "Issues, ethics and legal aspects"
+  },
+  {
+    "index": 191,
+    "id": 2911,
+    "name": "Leadership and Management"
+  },
+  {
+    "index": 192,
+    "id": 2916,
+    "name": "Nutrition and Dietetics"
+  },
+  {
+    "index": 193,
+    "id": 2922,
+    "name": "Research and Theory"
+  },
+  {
+    "index": 194,
+    "id": 3002,
+    "name": "Drug Discovery"
+  },
+  {
+    "index": 195,
+    "id": 3003,
+    "name": "Pharmaceutical Science"
+  },
+  {
+    "index": 196,
+    "id": 3004,
+    "name": "Pharmacology"
+  },
+  {
+    "index": 197,
+    "id": 3005,
+    "name": "Toxicology"
+  },
+  {
+    "index": 198,
+    "id": 3102,
+    "name": "Acoustics and Ultrasonics"
+  },
+  {
+    "index": 199,
+    "id": 3103,
+    "name": "Astronomy and Astrophysics"
+  },
+  {
+    "index": 200,
+    "id": 3104,
+    "name": "Condensed Matter Physics"
+  },
+  {
+    "index": 201,
+    "id": 3105,
+    "name": "Instrumentation"
+  },
+  {
+    "index": 202,
+    "id": 3106,
+    "name": "Nuclear and High Energy Physics"
+  },
+  {
+    "index": 203,
+    "id": 3107,
+    "name": "Atomic and Molecular Physics, and Optics"
+  },
+  {
+    "index": 204,
+    "id": 3108,
+    "name": "Radiation"
+  },
+  {
+    "index": 205,
+    "id": 3109,
+    "name": "Statistical and Nonlinear Physics"
+  },
+  {
+    "index": 206,
+    "id": 3200,
+    "name": "General Psychology"
+  },
+  {
+    "index": 207,
+    "id": 3202,
+    "name": "Applied Psychology"
+  },
+  {
+    "index": 208,
+    "id": 3203,
+    "name": "Clinical Psychology"
+  },
+  {
+    "index": 209,
+    "id": 3204,
+    "name": "Developmental and Educational Psychology"
+  },
+  {
+    "index": 210,
+    "id": 3205,
+    "name": "Experimental and Cognitive Psychology"
+  },
+  {
+    "index": 211,
+    "id": 3206,
+    "name": "Neuropsychology and Physiological Psychology"
+  },
+  {
+    "index": 212,
+    "id": 3207,
+    "name": "Social Psychology"
+  },
+  {
+    "index": 213,
+    "id": 3300,
+    "name": "General Social Sciences"
+  },
+  {
+    "index": 214,
+    "id": 3302,
+    "name": "Archeology"
+  },
+  {
+    "index": 215,
+    "id": 3303,
+    "name": "Development"
+  },
+  {
+    "index": 216,
+    "id": 3304,
+    "name": "Education"
+  },
+  {
+    "index": 217,
+    "id": 3305,
+    "name": "Geography, Planning and Development"
+  },
+  {
+    "index": 218,
+    "id": 3306,
+    "name": "Health"
+  },
+  {
+    "index": 219,
+    "id": 3307,
+    "name": "Human Factors and Ergonomics"
+  },
+  {
+    "index": 220,
+    "id": 3308,
+    "name": "Law"
+  },
+  {
+    "index": 221,
+    "id": 3309,
+    "name": "Library and Information Sciences"
+  },
+  {
+    "index": 222,
+    "id": 3310,
+    "name": "Linguistics and Language"
+  },
+  {
+    "index": 223,
+    "id": 3311,
+    "name": "Safety Research"
+  },
+  {
+    "index": 224,
+    "id": 3312,
+    "name": "Sociology and Political Science"
+  },
+  {
+    "index": 225,
+    "id": 3313,
+    "name": "Transportation"
+  },
+  {
+    "index": 226,
+    "id": 3314,
+    "name": "Anthropology"
+  },
+  {
+    "index": 227,
+    "id": 3315,
+    "name": "Communication"
+  },
+  {
+    "index": 228,
+    "id": 3316,
+    "name": "Cultural Studies"
+  },
+  {
+    "index": 229,
+    "id": 3317,
+    "name": "Demography"
+  },
+  {
+    "index": 230,
+    "id": 3318,
+    "name": "Gender Studies"
+  },
+  {
+    "index": 231,
+    "id": 3319,
+    "name": "Life-span and Life-course Studies"
+  },
+  {
+    "index": 232,
+    "id": 3320,
+    "name": "Political Science and International Relations"
+  },
+  {
+    "index": 233,
+    "id": 3321,
+    "name": "Public Administration"
+  },
+  {
+    "index": 234,
+    "id": 3322,
+    "name": "Urban Studies"
+  },
+  {
+    "index": 235,
+    "id": 3402,
+    "name": "Equine"
+  },
+  {
+    "index": 236,
+    "id": 3404,
+    "name": "Small Animals"
+  },
+  {
+    "index": 237,
+    "id": 3500,
+    "name": "General Dentistry"
+  },
+  {
+    "index": 238,
+    "id": 3504,
+    "name": "Oral Surgery"
+  },
+  {
+    "index": 239,
+    "id": 3505,
+    "name": "Orthodontics"
+  },
+  {
+    "index": 240,
+    "id": 3506,
+    "name": "Periodontics"
+  },
+  {
+    "index": 241,
+    "id": 3600,
+    "name": "General Health Professions"
+  },
+  {
+    "index": 242,
+    "id": 3603,
+    "name": "Complementary and Manual Therapy"
+  },
+  {
+    "index": 243,
+    "id": 3604,
+    "name": "Emergency Medical Services"
+  },
+  {
+    "index": 244,
+    "id": 3605,
+    "name": "Health Information Management"
+  },
+  {
+    "index": 245,
+    "id": 3607,
+    "name": "Medical Laboratory Technology"
+  },
+  {
+    "index": 246,
+    "id": 3608,
+    "name": "Medical Terminology"
+  },
+  {
+    "index": 247,
+    "id": 3609,
+    "name": "Occupational Therapy"
+  },
+  {
+    "index": 248,
+    "id": 3611,
+    "name": "Pharmacy"
+  },
+  {
+    "index": 249,
+    "id": 3612,
+    "name": "Physical Therapy, Sports Therapy and Rehabilitation"
+  },
+  {
+    "index": 250,
+    "id": 3614,
+    "name": "Radiological and Ultrasound Technology"
+  },
+  {
+    "index": 251,
+    "id": 3616,
+    "name": "Speech and Hearing"
+  }
+]

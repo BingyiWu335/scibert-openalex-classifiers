@@ -1,0 +1,132 @@
+[
+  {
+    "index": 0,
+    "id": 11,
+    "name": "Agricultural and Biological Sciences"
+  },
+  {
+    "index": 1,
+    "id": 12,
+    "name": "Arts and Humanities"
+  },
+  {
+    "index": 2,
+    "id": 13,
+    "name": "Biochemistry, Genetics and Molecular Biology"
+  },
+  {
+    "index": 3,
+    "id": 14,
+    "name": "Business, Management and Accounting"
+  },
+  {
+    "index": 4,
+    "id": 15,
+    "name": "Chemical Engineering"
+  },
+  {
+    "index": 5,
+    "id": 16,
+    "name": "Chemistry"
+  },
+  {
+    "index": 6,
+    "id": 17,
+    "name": "Computer Science"
+  },
+  {
+    "index": 7,
+    "id": 18,
+    "name": "Decision Sciences"
+  },
+  {
+    "index": 8,
+    "id": 19,
+    "name": "Earth and Planetary Sciences"
+  },
+  {
+    "index": 9,
+    "id": 20,
+    "name": "Economics, Econometrics and Finance"
+  },
+  {
+    "index": 10,
+    "id": 21,
+    "name": "Energy"
+  },
+  {
+    "index": 11,
+    "id": 22,
+    "name": "Engineering"
+  },
+  {
+    "index": 12,
+    "id": 23,
+    "name": "Environmental Science"
+  },
+  {
+    "index": 13,
+    "id": 24,
+    "name": "Immunology and Microbiology"
+  },
+  {
+    "index": 14,
+    "id": 25,
+    "name": "Materials Science"
+  },
+  {
+    "index": 15,
+    "id": 26,
+    "name": "Mathematics"
+  },
+  {
+    "index": 16,
+    "id": 27,
+    "name": "Medicine"
+  },
+  {
+    "index": 17,
+    "id": 28,
+    "name": "Neuroscience"
+  },
+  {
+    "index": 18,
+    "id": 29,
+    "name": "Nursing"
+  },
+  {
+    "index": 19,
+    "id": 30,
+    "name": "Pharmacology, Toxicology and Pharmaceutics"
+  },
+  {
+    "index": 20,
+    "id": 31,
+    "name": "Physics and Astronomy"
+  },
+  {
+    "index": 21,
+    "id": 32,
+    "name": "Psychology"
+  },
+  {
+    "index": 22,
+    "id": 33,
+    "name": "Social Sciences"
+  },
+  {
+    "index": 23,
+    "id": 34,
+    "name": "Veterinary"
+  },
+  {
+    "index": 24,
+    "id": 35,
+    "name": "Dentistry"
+  },
+  {
+    "index": 25,
+    "id": 36,
+    "name": "Health Professions"
+  }
+]

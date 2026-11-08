@@ -1,0 +1,1 @@
+Single-label logs contain saved notebook outputs in cell order; they are not a complete chronological training trace. Multilabel JSON files contain the recorded validation and test evaluations. Machine-specific paths and terminal control codes have been removed.

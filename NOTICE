@@ -1,0 +1,3 @@
+These checkpoints are fine-tuned derivatives of allenai/scibert_scivocab_uncased, developed by the Allen Institute for Artificial Intelligence. The encoder weights have been updated and residual classification heads have been added. The upstream Apache 2.0 license is reproduced in licenses/SciBERT-APACHE-2.0.txt.
+
+SciBERT: https://github.com/allenai/scibert
