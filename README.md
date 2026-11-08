@@ -33,3 +33,9 @@ print(labels[scores[0].argmax().item()])
 Use `subfield_single` or `subfield_multilabel` for the other checkpoints. For the multilabel model, tokenize the title and abstract as a text pair and apply `sigmoid()` to the logits. Its scores are not normalized to sum to one; the validation-selected threshold is 0.25. The two subfield models have different label orders; use the matching file in `labels/`.
 
 The loader preserves the residual classification heads. No pretrained-weight download is needed. Training and evaluation logs are in `logs/`.
+
+## Citation
+
+If you use these models, please cite the original SciBERT paper.
+
+Beltagy, I., Lo, K. & Cohan, A. SciBERT: A Pretrained Language Model for Scientific Text. In *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing*, 3615–3620 (ACL, 2019). [ACL Anthology](https://aclanthology.org/D19-1371/)
