@@ -32,4 +32,4 @@ print(labels[scores[0].argmax().item()])
 
 Use `subfield_single` or `subfield_multilabel` for the other checkpoints. For the multilabel model, tokenize the title and abstract as a text pair and apply `sigmoid()` to the logits. Its scores are not normalized to sum to one; the validation-selected threshold is 0.25. The two subfield models have different label orders; use the matching file in `labels/`.
 
-The loader preserves the residual classification heads. No pretrained-weight download is needed. Checksums are in `SHA256SUMS`; available training and evaluation outputs are in `logs/`.
+The loader preserves the residual classification heads. No pretrained-weight download is needed. Training and evaluation logs are in `logs/`.
